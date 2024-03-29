@@ -82,4 +82,6 @@ public abstract class Entrada {
 	}
 
 	public abstract BigDecimal calcularCostoTotal(String tipoEntrada);
+
+
 }
